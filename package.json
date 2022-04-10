@@ -1,0 +1,26 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Exemplo de POO utilizando Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Th14go/POO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Th14go/POO/issues"
+  },
+  "homepage": "https://github.com/Th14go/POO#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/prompt-sync": "^4.1.1",
+    "g": "^2.0.1",
+    "typescript": "^4.6.3"
+  }
+}
